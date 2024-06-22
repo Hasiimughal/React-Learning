@@ -5,7 +5,7 @@ const Child = ({ countOne }) => {
   console.log('hello world')
   return (
     <>
-      <h3>component rendered...</h3>
+      <h3>component rendered.......</h3>
     </>
   )
 }
